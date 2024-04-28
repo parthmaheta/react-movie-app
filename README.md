@@ -1,3 +1,18 @@
+# Movie - React APP
+  HighQuality Frontend App Which Shows List OF Movies 
+
+  Fetures
+   - Responsive - Diffenrent Screen Sizes
+   - Filters - Genre,Language,Country
+   - Extensibility - In Future Adding Different Features Is Seamless
+
+  
+TECH
+  -- React - For Frontend
+  -- Tailwind - For Styling
+  -- Redux Toolkit - For State Management
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
